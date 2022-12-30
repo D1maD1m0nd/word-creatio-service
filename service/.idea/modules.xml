@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/prject.iml" filepath="$PROJECT_DIR$/.idea/prject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pythonProject/pythonProject/send-request-data/.idea/send-request-data.iml" filepath="$PROJECT_DIR$/../pythonProject/pythonProject/send-request-data/.idea/send-request-data.iml" />
+    </modules>
+  </component>
+</project>

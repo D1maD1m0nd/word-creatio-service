@@ -1,0 +1,2 @@
+D:\WordCreationPlugin\WordCreationPlugin\WordCreationPlugin\obj\Debug\WordCreationPlugin.csproj.AssemblyReference.cache
+D:\WordCreationPlugin\WordCreationPlugin\WordCreationPlugin\obj\Debug\WordCreationPlugin.csproj.CoreCompileInputs.cache

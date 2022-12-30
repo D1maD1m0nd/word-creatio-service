@@ -1,0 +1,2 @@
+bin\Debug\OfficeAppManifests\WordCreationPluginManifest.xml
+D:\WordCreationPlugin\WordCreationPlugin\WordCreationPlugin\bin\Debug\WordCreationPlugin.debugapp
